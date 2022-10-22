@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Generated files
+cmake_build/
+
+*.swp
+*.swo
